@@ -1,5 +1,5 @@
 # DBMS-Lab
-DBMS Practical List
+
 1 Draw an ER diagram and EER diagram and convert it into relational database and draw schema diagram.
 
 2 Write and execute basic SQL query- create, alter, insert, update and delete. (instructor should frame appropriate problem definition).
